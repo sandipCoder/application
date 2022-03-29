@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Sandip",
+      "lname": "Choraghe",
+      "email": "sandip@gmail.com",
+      "phoneNumber": "9011888999",
+      "password": "dfdsfsdf",
+      "cpassword": "dfsdfsdfsdf",
+      "id": 1
+    },
+    {
+      "name": "Sandip",
+      "lname": "Choraghe",
+      "email": "sandip@gmail.com",
+      "phoneNumber": "9011888999",
+      "password": "dfsdfds",
+      "cpassword": "dfsdfsd",
+      "id": 2
+    }
+  ]
+}
